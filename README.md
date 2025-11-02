@@ -1,3 +1,5 @@
+THIS REPO IS DEPRECATED AND WILL BE ARCHIVED SOON!!! STAY TUNED FOR UPDATES
+
 # Arkhon-Memory-ST
 
 This is a drop-in SillyTavern memory bridge using [`arkhon_memory`](https://github.com/kissg96/arkhon_memory).**  
